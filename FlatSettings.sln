@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlatSettingsPOC.Tests", "FlatSettingsPOC.Tests\FlatSettingsPOC.Tests.csproj", "{169820C1-32CB-4175-AC2B-41192F5340B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169820C1-32CB-4175-AC2B-41192F5340B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169820C1-32CB-4175-AC2B-41192F5340B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169820C1-32CB-4175-AC2B-41192F5340B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169820C1-32CB-4175-AC2B-41192F5340B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBA69F18-8C9E-469E-9C61-D2F4BF0C4A41}
+	EndGlobalSection
+EndGlobal
